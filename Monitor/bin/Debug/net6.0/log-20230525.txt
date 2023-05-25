@@ -1,0 +1,10 @@
+2023-05-25 19:01:48.440 +03:00 [Information] Process Monitor has been killed
+2023-05-25 19:03:04.106 +03:00 [Information] Process Monitor has been killed
+2023-05-25 19:29:46.813 +03:00 [Information] Process Monitor has been killed
+2023-05-25 19:43:14.676 +03:00 [Information] Process Monitor has been killed
+2023-05-25 19:44:31.378 +03:00 [Information] Process Monitor has been killed
+2023-05-25 19:53:54.139 +03:00 [Information] Process Monitor has been killed
+2023-05-25 19:55:54.249 +03:00 [Information] Process Monitor has been killed
+2023-05-25 19:56:54.286 +03:00 [Information] Process Monitor has been killed
+2023-05-25 19:58:07.288 +03:00 [Information] Process Monitor has been killed
+2023-05-25 21:49:03.005 +03:00 [Information] Process chrome has been killed
